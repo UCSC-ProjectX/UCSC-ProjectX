@@ -1,1 +1,1 @@
-# .github-private
+# UCSC - ProjectX 
